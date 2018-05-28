@@ -1,0 +1,1 @@
+alert("Budget App");
